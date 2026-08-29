@@ -1,6 +1,6 @@
 {
   "name": "viewsync-main",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Live screen cropper and lag-free mirroring.",
   "main": "index.js",
   "bin": {

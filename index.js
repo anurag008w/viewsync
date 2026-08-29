@@ -100,7 +100,7 @@ async function run() {
 | |/ / /  __/ |/ |/ /  ___/ / /_/ / / / / /__   
 |___/_/\\___/|__/|__/  /____/\\__, /_/ /_/[___/   
                            /____/               
-       [ PROJECT: VIEW-SYNC ] [ v2.0.0 ]
+       [ PROJECT: VIEW-SYNC ] [ v1.0.0 ]
 ` + Z;
 
     console.log(logo);
