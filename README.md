@@ -1,4 +1,4 @@
-# ViewSync 🚀 ![NPM Version](https://img.shields.io/npm/v/viewsync.svg)
+# ViewSync 🚀 ![NPM Version](https://img.shields.io/npm/v/viewsync-main.svg)
 
 A powerful, lag-free mirroring tool and live cropper for Android devices! Perfect for streaming study lectures seamlessly on your PC.
 
@@ -12,12 +12,12 @@ A powerful, lag-free mirroring tool and live cropper for Android devices! Perfec
 Simply run this command anywhere in your terminal:
 
 ```bash
-npx viewsync
+npx -y viewsync-main@latest
 ```
 OR
 ```bash
-npm install -g viewsync
-viewsync
+npm install -g viewsync-main
+viewsync-main
 ```
 
 *(Note: During installation, it will ask for your sudo password to install background dependencies like adb and xdotool.)*
