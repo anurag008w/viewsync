@@ -1,0 +1,14 @@
+{
+  "name": "viewsync-main",
+  "version": "1.0.0",
+  "description": "Live screen cropper and lag-free mirroring.",
+  "main": "index.js",
+  "bin": {
+    "viewsync-main": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag",
+  "license": "ISC"
+}
